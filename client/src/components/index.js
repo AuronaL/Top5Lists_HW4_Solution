@@ -1,5 +1,5 @@
 import AppBanner from './AppBanner'
-import DeleteModal from './DeleteModal'
+import DeleteModal from './MUIDeleteModal'
 import EditToolbar from './EditToolbar'
 import HomeScreen from './HomeScreen'
 import HomeWrapper from './HomeWrapper'
